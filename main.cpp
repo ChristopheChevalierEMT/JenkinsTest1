@@ -5,7 +5,7 @@ int main()
 {
     int firstNumber, secondNumber, sumOfTwoNumbers;
     
-    cout << "Calcul de la somme de deux nombres" << endl;
+    cout << "Calcul de la somme de deux nombres" << endln;
     cout << "----------------------------------" << endl;
     cout << "Le premier nombre : ";
     cin >> firstNumber;
