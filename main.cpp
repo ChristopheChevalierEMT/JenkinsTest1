@@ -10,7 +10,6 @@ int main()
     cout << "Le premier nombre : ";
     cin >> firstNumber;
     cout << "Le second nombre : ";
-    cout << "----------------------------------" << endl;
     cin >> secondNumber;
 
     // sum of two numbers in stored in variable sumOfTwoNumbers
